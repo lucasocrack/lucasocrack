@@ -18,6 +18,7 @@
          title="giphy" 
          alt="dev"
     >
+    <br />
 </a>
 
 <p>

@@ -1,3 +1,4 @@
+<h1 align="center">Olá, este sou eu</h1>
 <a href="#">
     <img 
          src="https://github.com/lucasocrack/lucasocrack/blob/main/assets/giphy.gif" 
@@ -9,7 +10,7 @@
     >
 </a>
 
-<p width="500px" >
+<p style="width: 500px;">
 :heart: Sou apaixonado por tecnologia, atualmente cursando Engenharia de Soft, adoro música, gatos e games!
 <br />
 :calling: <a href="https://wa.me/5533991448945">Meu Whatsapp.</a>
@@ -33,8 +34,7 @@
 </p>
 
 
-<h1 align="center">Olá, eu sou eu</h1>
-
+<h2>Saiba mais</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasocrack&label=Profile%20views&color=0e75b6&style=flat" alt="lucasocrack" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasocrack&show_icons=true&locale=en" alt="lucasocrack" /></p>

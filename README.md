@@ -3,16 +3,19 @@
          src="https://github.com/lucasocrack/lucasocrack/blob/main/assets/giphy.gif" 
          align="right" 
          width="275px" 
-         height="95px" 
+         height="auto" 
          title="giphy" 
          alt="dev"
     >
 </a>
 
+<p width="500px" >
 :heart: Sou apaixonado por tecnologia, atualmente cursando Engenharia de Soft, adoro música, gatos e games!
 <br />
 :calling: <a href="https://wa.me/5533991448945">Meu Whatsapp.</a>
 :link: <a href="https://codesdevs.com/">Minha empresa</a>
+</p>
+
 <p align="right">
     <a href="https://www.linkedin.com/in/lucas-ferreira-campos-12146997/">
         <img 

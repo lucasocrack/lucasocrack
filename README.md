@@ -20,7 +20,7 @@
     >
 </a>
 
-<p align="right">
+<p>
     <a href="https://www.linkedin.com/in/lucas-ferreira-campos-12146997/">
         <img 
              src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" 

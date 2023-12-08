@@ -13,7 +13,9 @@
 <p style="width: 500px;">
 :heart: Sou apaixonado por tecnologia, atualmente cursando Engenharia de Soft, adoro música, gatos e games!
 <br />
+<br />
 :calling: <a href="https://wa.me/5533991448945">Meu Whatsapp.</a>
+<br />
 :link: <a href="https://codesdevs.com/">Minha empresa</a>
 </p>
 

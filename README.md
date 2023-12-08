@@ -7,6 +7,8 @@
 :calling: <a href="https://wa.me/5533991448945">Meu Whatsapp.</a>
 <br />
 :link: <a href="https://codesdevs.com/">Minha empresa</a>
+<br />
+:octocat: <a href="https://github.com/codesdevsgroup">Github da empresa</a>
 </p>
 
 <a href="#">

@@ -3,14 +3,14 @@
     <img 
          src="https://github.com/lucasocrack/lucasocrack/blob/main/assets/giphy.gif" 
          align="right" 
-         width="275px" 
+         width="380px" 
          height="auto" 
          title="giphy" 
          alt="dev"
     >
 </a>
 
-<p style="width: 400px;">
+<p style="width: 300px;">
 :heart: Sou apaixonado por tecnologia, atualmente cursando Engenharia de Soft <br />:heart: adoro música, gatos e games!
 <br />
 <br />
@@ -38,10 +38,14 @@
              alt="Gmail"
         >
 </p>
-
-<h2>Saiba mais</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasocrack&label=Profile%20views&color=0e75b6&style=flat" alt="lucasocrack" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasocrack&show_icons=true&locale=en" alt="lucasocrack" /></p>
+<h2>Saiba mais</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasocrack&show_icons=true&locale=en&layout=compact" alt="lucasocrack" /></p>
+<div >
+    <p align="center">
+        &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasocrack&show_icons=true&locale=en" alt="lucasocrack" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasocrack&show_icons=true&locale=en&layout=compact" alt="lucasocrack" />
+    </p>
+    
+</div>

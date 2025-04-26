@@ -2,7 +2,7 @@
   <h1>👋 Olá, eu sou Lucas!</h1>
   <img 
     src="https://github.com/lucasocrack/lucasocrack/blob/main/assets/giphy.gif" 
-    width="250px" 
+    width="360px" 
     alt="Coding Vibes" 
     style="border-radius: 15px;"
   >
@@ -13,9 +13,14 @@
 <div align="center">
 
 ### 🚀 Sobre Mim
-Sou um **Desenvolvedor Front-End** na [Auditore Sistemas](https://auditore.com.br/) e também atuo com **Suporte Técnico** na [Maximus Automação](https://maximusautomacao.com/).  
-Além disso, sou **Full Stack** em projetos próprios através da minha empresa, a [CodesDevs](https://codesdevs.com.br/), criando soluções modernas e escaláveis.  
-Apaixonado por **tecnologia**, **infraestrutura**, **inteligência artificial**, música 🎵, gatos 🐾 e games 🎮!
+
+Sou um **Desenvolvedor Front-End** na [Auditore Sistemas](https://auditore.com.br/) e atuo também com **Suporte Técnico** na [Maximus Automação](https://maximusautomacao.com/).  
+Além disso, sou **Full Stack** em projetos próprios através da minha empresa, a [CodesDevs](https://codesdevs.com.br/), onde crio soluções modernas e escaláveis para diversos clientes.
+
+Minha paixão por tecnologia vai além do código: há mais de 2 anos, mantenho meu próprio **servidor VPS**, oferecendo serviços de hospedagem para outras empresas. Essa experiência me proporcionou habilidades práticas em administração de sistemas, segurança, automação de deploy e monitoramento de aplicações em produção.
+
+Sou fascinado por **infraestrutura**, **inteligência artificial** e **automação**, e estou constantemente explorando novas ferramentas e metodologias para aprimorar minhas habilidades.  
+Nos momentos de lazer, gosto de mergulhar em livros sobre tecnologia e desenvolvimento pessoal, mesmo com o tempo limitado. Também sou apaixonado por música 🎵, gatos 🐾 e games 🎮!
 
 - 🎓 Cursando **Engenharia de Software**
 - 💼 Fundador da [CodesDevs](https://codesdevs.com.br/)
@@ -24,6 +29,7 @@ Apaixonado por **tecnologia**, **infraestrutura**, **inteligência artificial**,
 </div>
 
 ---
+
 
 <div align="center">
 

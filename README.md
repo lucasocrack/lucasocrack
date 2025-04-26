@@ -1,16 +1,5 @@
 <div align="center">
-  <h1>👋 Olá, eu sou Lucas!</h1>
-  <img 
-    src="https://github.com/lucasocrack/lucasocrack/blob/main/assets/giphy.gif" 
-    width="360px" 
-    alt="Coding Vibes" 
-    style="border-radius: 15px;"
-  >
-</div>
-
----
-
-<div align="center">
+  <h1>console.log("Hello, World! 👨‍💻 Eu sou o Lucas!");</h1>
 
 ### 🚀 Sobre Mim
 
@@ -19,8 +8,9 @@ Além disso, sou **Full Stack** em projetos próprios através da minha empresa,
 
 Minha paixão por tecnologia vai além do código: há mais de 2 anos, mantenho meu próprio **servidor VPS**, oferecendo serviços de hospedagem para outras empresas. Essa experiência me proporcionou habilidades práticas em administração de sistemas, segurança, automação de deploy e monitoramento de aplicações em produção.
 
-Sou fascinado por **infraestrutura**, **inteligência artificial** e **automação**, e estou constantemente explorando novas ferramentas e metodologias para aprimorar minhas habilidades.  
-Nos momentos de lazer, gosto de mergulhar em livros sobre tecnologia e desenvolvimento pessoal, mesmo com o tempo limitado. Também sou apaixonado por música 🎵, gatos 🐾 e games 🎮!
+Sou fascinado por **infraestrutura**, **inteligência artificial** e **automação**, e estou constantemente explorando novas ferramentas e metodologias para aprimorar minhas habilidades.
+
+Nos momentos de lazer, gosto de mergulhar em livros sobre **tecnologia** e **desenvolvimento pessoal**, além de romances futuristas como a saga *Duna*, que explora intrigas políticas e filosóficas em um universo intergaláctico, e obras como *Androides Sonham com Ovelhas Elétricas?*, de Philip K. Dick, que inspirou o filme *Blade Runner* e aborda questões profundas sobre a natureza da humanidade e da tecnologia.
 
 - 🎓 Cursando **Engenharia de Software**
 - 💼 Fundador da [CodesDevs](https://codesdevs.com.br/)
@@ -29,7 +19,6 @@ Nos momentos de lazer, gosto de mergulhar em livros sobre tecnologia e desenvolv
 </div>
 
 ---
-
 
 <div align="center">
 
@@ -93,6 +82,7 @@ Nos momentos de lazer, gosto de mergulhar em livros sobre tecnologia e desenvolv
   alt="GitHub Stats" 
   style="margin: 10px;"
 />
+<br />
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasocrack&show_icons=true&locale=pt-br&layout=compact&hide=css,scss&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15" 
   alt="Top Languages" 
@@ -101,13 +91,14 @@ Nos momentos de lazer, gosto de mergulhar em livros sobre tecnologia e desenvolv
 
 </div>
 
+
 ---
 
 <div align="center">
 
 ### 📬 Entre em Contato
 
-<a href="https://www.linkedin.com/in/lucas-ferreira-campos-12146997/">
+<a href="https://www.linkedin.com/in/lucascampos42/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:bhlucascampos@gmail.com">
@@ -131,6 +122,17 @@ Nos momentos de lazer, gosto de mergulhar em livros sobre tecnologia e desenvolv
 #### 🚀 [NestJS Boilerplate](https://github.com/lucasocrack/nest-boilerplate)
 
 Este é um projeto inicial que estabelece os parâmetros básicos para um backend robusto, incluindo segurança completa de autenticação para login de usuários utilizando tokens JWT. Ideal para quem busca uma base sólida e segura para aplicações backend com NestJS.
+
+</div>
+
+---
+
+<div align="center">
+
+### 📚 Interesses Pessoais
+
+Nos momentos de lazer, gosto de mergulhar em livros sobre **tecnologia** e **desenvolvimento pessoal**, além de romances futuristas como a saga *Duna*, que explora intrigas políticas e filosóficas em um universo intergaláctico, e obras como *Androides Sonham com Ovelhas Elétricas?*, de Philip K. Dick, que inspirou o filme *Blade Runner* e aborda questões profundas sobre a natureza da humanidade e da tecnologia.  
+Também sou apaixonado por música 🎵, gatos 🐾 e games 🎮!
 
 </div>
 

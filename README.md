@@ -45,7 +45,7 @@
 <div >
     <p align="center">
         &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasocrack&show_icons=true&locale=en" alt="lucasocrack" />
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasocrack&show_icons=true&locale=en&layout=compact" alt="lucasocrack" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasocrack&show_icons=true&locale=en&layout=compact&hide=css,scss" alt="lucasocrack" />
     </p>
     
 </div>

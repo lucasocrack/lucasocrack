@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>console.log("Hello, World! 👨‍💻 Eu sou o Lucas!");</h1>
+  <h1>console.log</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B00FF&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Eu+sou+o+Lucas+Campos!" alt="Typing SVG" />
+</div>
 
 ### 🚀 Sobre Mim
 
@@ -9,8 +11,6 @@ Além disso, sou **Full Stack** em projetos próprios através da minha empresa,
 Minha paixão por tecnologia vai além do código: há mais de 2 anos, mantenho meu próprio **servidor VPS**, oferecendo serviços de hospedagem para outras empresas. Essa experiência me proporcionou habilidades práticas em administração de sistemas, segurança, automação de deploy e monitoramento de aplicações em produção.
 
 Sou fascinado por **infraestrutura**, **inteligência artificial** e **automação**, e estou constantemente explorando novas ferramentas e metodologias para aprimorar minhas habilidades.
-
-Nos momentos de lazer, gosto de mergulhar em livros sobre **tecnologia** e **desenvolvimento pessoal**, além de romances futuristas como a saga *Duna*, que explora intrigas políticas e filosóficas em um universo intergaláctico, e obras como *Androides Sonham com Ovelhas Elétricas?*, de Philip K. Dick, que inspirou o filme *Blade Runner* e aborda questões profundas sobre a natureza da humanidade e da tecnologia.
 
 - 🎓 Cursando **Engenharia de Software**
 - 💼 Fundador da [CodesDevs](https://codesdevs.com.br/)

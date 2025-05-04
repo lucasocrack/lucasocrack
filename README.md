@@ -85,13 +85,13 @@ Sou fascinado por **infraestrutura**, **inteligência artificial** e **automaç�
 ### 📊 Minhas Estatísticas
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=lucasocrack&show_icons=true&locale=pt-br&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15" 
+  src="https://github-readme-stats.vercel.app/api?username=lucascampos42&show_icons=true&locale=pt-br&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15" 
   alt="GitHub Stats" 
   style="margin: 10px;"
 />
 <br />
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasocrack&show_icons=true&locale=pt-br&hide=css,scss&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascampos42&show_icons=true&locale=pt-br&hide=css,scss&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15" 
   alt="Top Languages" 
   style="margin: 10px;"
 />
@@ -111,7 +111,7 @@ Sou fascinado por **infraestrutura**, **inteligência artificial** e **automaç�
 <a href="mailto:bhlucascampos@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://github.com/lucasocrack">
+<a href="https://github.com/lucascampos42">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://wa.me/5533991448945">
@@ -126,7 +126,7 @@ Sou fascinado por **infraestrutura**, **inteligência artificial** e **automaç�
 
 ### 🌟 Projeto em Destaque
 
-#### 🚀 [NestJS Boilerplate](https://github.com/lucasocrack/nest-boilerplate)
+#### 🚀 [NestJS Boilerplate](https://github.com/lucascampos42/nest-boilerplate)
 
 Este é um projeto inicial que estabelece os parâmetros básicos para um backend robusto, incluindo segurança completa de autenticação para login de usuários utilizando tokens JWT. Ideal para quem busca uma base sólida e segura para aplicações backend com NestJS.
 
@@ -146,5 +146,5 @@ Também sou apaixonado por música 🎵, gatos 🐾 e games 🎮!
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucasocrack&label=Profile%20Views&color=8b00ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=lucascampos42&label=Profile%20Views&color=8b00ff&style=for-the-badge" alt="Profile Views" />
 </div>

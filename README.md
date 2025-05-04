@@ -30,6 +30,7 @@ Sou fascinado por **infraestrutura**, **inteligência artificial** e **automaç�
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 #### 🎨 Front-end
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -68,6 +69,12 @@ Sou fascinado por **infraestrutura**, **inteligência artificial** e **automaç�
 #### 🖥️ Aplicações Desktop
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
 
+#### 📚 Documentação & Arquitetura
+![Compodoc](https://img.shields.io/badge/Compodoc-4889F4?style=flat-square&logo=angular&logoColor=white)
+![Arquitetura Limpa](https://img.shields.io/badge/Arquitetura_Limpa-0D1117?style=flat-square&logo=cleanarchitecture&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-FF7F50?style=flat-square&logo=architecture&logoColor=white)
+![Modelagem de Dados](https://img.shields.io/badge/Modelagem_de_Dados-FF7F50?style=flat-square&logo=database&logoColor=white)
+
 
 </div>
 
@@ -84,7 +91,7 @@ Sou fascinado por **infraestrutura**, **inteligência artificial** e **automaç�
 />
 <br />
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasocrack&show_icons=true&locale=pt-br&layout=compact&hide=css,scss&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasocrack&show_icons=true&locale=pt-br&hide=css,scss&bg_color=1a1a1a&title_color=8b00ff&text_color=ffffff&icon_color=8b00ff&border_color=8b00ff&border_radius=15" 
   alt="Top Languages" 
   style="margin: 10px;"
 />
